@@ -26,13 +26,14 @@ plugins:
 
 # Site owner
 owner:
-  name:
+  name: Takashi Yoshioka
   email:
   twitter:
+  facebook: takagotch
   google:
     ad-client:
     ad-slot:
-  bio:
+  bio: allowed yall requests till my account limit goes on tails!
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
