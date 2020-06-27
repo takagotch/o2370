@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
+- title: Getting Started
+  url:
+  excerpt:
+  image:
+
+- title: Sample Articles
+  url:
+  excerpt:
+  image:
+
+- title: Media 
+  url:
+  excerpt:
+  image:
+
+- title: About
   url:
   excerpt:
   image:
